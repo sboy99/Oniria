@@ -1,10 +1,10 @@
-package app.oniria.oniria;
+package app.oniria.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OniriaApplicationTests {
+class AppTests {
 
 	@Test
 	void contextLoads() {
